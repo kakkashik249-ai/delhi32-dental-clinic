@@ -1,0 +1,7 @@
+{
+  "name": "AuraDental - Premium Dental Clinic",
+  "description": "World-class dental clinic delivering exceptional restorative, cosmetic, orthodontic, and surgical care with patient-first precision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
